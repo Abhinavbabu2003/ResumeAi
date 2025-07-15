@@ -1,0 +1,126 @@
+**ABHINAV BABU**
++91 8590462267 | abhinavbabu7551@gmail.com | LinkedIn: linkedin.com/in/abhinav-babu-10aa1719a | GitHub: github.com/Abhinavbabu2003
+
+**Summary**
+
+Full-Stack Developer and Software Engineer with 3+ years of experience in designing, developing, and deploying scalable web applications. Proficient in the MERN stack, cloud technologies (AWS), and DevOps practices. Passionate about creating efficient and user-friendly solutions. Seeking a challenging Full-Stack Developer role to contribute to innovative projects.
+
+**Skills**
+
+*   **Languages:** JavaScript, Python, Java, HTML, CSS, PHP, SQL, NoSQL, Shell Scripting
+*   **Frameworks/Libraries:** React, Next.js, Node.js, Express.js, Redux, jQuery, Bootstrap
+*   **Databases:** MySQL, MongoDB, PostgreSQL, DynamoDB
+*   **Cloud Platforms:** Amazon Web Services (EC2, S3, Lambda, API Gateway, CloudFormation, IAM, VPC), Azure, Google Cloud Platform (GCP), XAMPP, IIS, NGROK
+*   **DevOps Tools:** Docker, Kubernetes, Jenkins, GitLab CI, CircleCI, Terraform, Ansible, GitHub Actions
+*   **Testing:** Jest, Mocha, Cypress, Selenium
+*   **Version Control:** Git (branching, merging, conflict resolution), GitHub, GitLab, Bitbucket
+*   **Methodologies:** Agile, Scrum, Kanban
+*   **Other:** RESTful APIs, Microservices, Data Structures, Algorithms, Encryption/Decryption Techniques, Generative AI, Debugging, UI/UX Design, Webpack, Babel, CI/CD Pipelines, System Design, Data Analysis
+
+**Projects**
+
+*   **REDHAWK (Cybersecurity Pentesting Tool with Chatbot Integration) | Group Project | 2025**
+    *   Engineered a cybersecurity tool to detect vulnerabilities by analyzing logs and scanning website URLs, resulting in a 20% improvement in threat detection accuracy.
+    *   Integrated an AI-powered chatbot and used XGBoost for machine learning-based threat prediction, reducing the response time to potential threats by 30%.
+    *   Technologies: Next.js, JavaScript, MongoDB, Python, XGBoost.
+
+*   **MedVault (Medical Record Storage System) | Group Project | 2025**
+    *   Built a blockchain-based medical record storage system ensuring data provenance and security, reducing data breaches by 25%.
+    *   Implemented a unique ID system linking patients to their records for secure, tamper-proof access, improving data retrieval efficiency by 40%.
+    *   Enhanced transparency and traceability of medical data with decentralized ledger technology.
+    *   Technologies: Blockchain, JavaScript, React, Node.js, MongoDB.
+    *   Published in the International Journal of Scientific Research in Engineering and Management (IJSREM).
+
+*   **CIPHER SHARE (Advanced Encryption and Decryption using Keys) | Group Project | 2024**
+    *   Developed a secure application for encrypting and decrypting text and images using unique keys, ensuring confidentiality.
+    *   Technologies: JavaScript, Next.js, CSS, MongoDB, XAMPP, AWS.
+    *   Published in the International Journal of Scientific Research in Engineering and Management (IJSREM).
+
+*   **Resume_AI | 2025**
+    *   Generated ATS-friendly resumes using AI by analyzing user input and optimizing for keywords and formatting, resulting in a 40% increase in resume score.
+    *   Technologies: React, Node.js, Python, Gemini.
+
+*   **Speech Translator | 2025**
+    *   Language translation app for emigrants, facilitating communication and integration.
+    *   Technologies: Next.js, CSS, JavaScript, Python, AWS.
+
+*   **EXPENSE ZONE (Expense Tracker) | 2025**
+    *   Real-time expense tracker using cloud integration, enabling users to monitor and manage their finances effectively.
+    *   Technologies: Next.js, CSS, JavaScript, Node.js, MongoDB, AWS.
+
+*   **NCERC VOTING SYSTEM | 2024**
+    *   Secure college election voting platform, ensuring fair and transparent elections.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, IIS.
+
+*   **BASE BUILDER | 2024**
+    *   Engineering calculator for civil foundation evaluations, improving the accuracy of structural designs by 15%.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, XAMPP, AWS, NGROK.
+
+*   **NCERC FEEDBACK SYSTEM | 2024**
+    *   A platform for collecting and managing feedback from students for faculty and course evaluations, leading to a 10% improvement in faculty performance.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, IIS.
+
+*   **NCERC Faculty Management System | 2024**
+    *   Faculty record management platform, streamlining administrative tasks and improving data accuracy.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, IIS.
+
+*   **NCERC SRMS | 2024**
+    *   Platform to publish and manage student results, ensuring efficient and timely communication.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, IIS.
+
+*   **MESSAGE TRANSPORT SYSTEM | 2024**
+    *   An internal messaging platform for secure and streamlined communication within an organization, improving team collaboration by 20%.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, XAMPP, AWS, NGROK.
+
+*   **Hospital Management System | 2024**
+    *   Online appointment and consultation platform, improving patient access and satisfaction by 25%.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, XAMPP, AWS, NGROK.
+
+*   **NCERC Attendance System | 2024**
+    *   Attendance tracking system for students and faculty, improving attendance monitoring and reporting efficiency by 15%.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, IIS.
+
+*   **Graphical Password Auth System | 2023**
+    *   Three-factor secure authentication system, enhancing user security and reducing unauthorized access attempts by 10%.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, XAMPP, AWS, NGROK.
+
+*   **Advocate Website | 2023**
+    *   Personal portfolio site for legal professionals, enhancing their online presence and client engagement.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, XAMPP, AWS, NGROK.
+
+*   **Smart City Traveller | 2022**
+    *   Travel package planner and tourist guide platform, improving user experience and satisfaction.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, XAMPP, AWS, NGROK.
+
+*   **Trevally | 2022**
+    *   Platform for users to share and store travel experiences, building a vibrant online community.
+    *   Technologies: HTML, CSS, JavaScript, PHP, SQL, XAMPP, AWS, NGROK.
+
+*   **NCERC Website | 2022**
+    *   Responsive official college website for NCERC, improving user engagement and accessibility.
+    *   Technologies: HTML, CSS, JavaScript, IIS.
+
+**Experience**
+
+*   **Intern | Tata Advanced Systems Limited | [Start Date] - [End Date]**
+    *   [Quantifiable achievements and responsibilities as an Intern]
+
+**Education**
+
+*   **Bachelor of Technology in Computer Science and Engineering | Nehru College of Engineering and Research Centre, Kerala | Sept 2021 – Apr 2025 | CGPA: 7.08**
+
+**Awards & Honors**
+
+*   Student Leader, IEDC NCERC & Tourism Club.
+*   Software Development & Project Recognition – NCERC (2024): Recognized for organizing and leading a full-stack development workshop.
+*   Letter of Appreciation for conducting Full Stack Development workshop (2024).
+
+**Certifications**
+
+*   Microsoft: Modules completed 235, Learning paths completed 51, Training hours 177 hr 16 min. [https://learn.microsoft.com/en-us/users/abhinavbabu-4276/transcript/d5gq0uo9m53k1q2?tab=tab-modules](https://learn.microsoft.com/en-us/users/abhinavbabu-4276/transcript/d5gq0uo9m53k1q2?tab=tab-modules)
+*   Certificates for developing NCERC Feedback System, SRMS, Expense Tracker, Voting System, Faculty Information System, Attendance System.
+*   Bootcamps & Technical Courses (2023–2024): Figma, Canva, CSS, Git & GitHub, Google Sheets, Java, JavaScript, HTML5.
+*   WildLearner (2023): HTML5, JavaScript, Python, React.
+*   Programs & Leadership (2023): IEDC GENIX Program, Campus Ambassador, IEDC Summit March 4, 2023 & October 19, 2024.
+*   IEEE Ather Energy Workshop.
+

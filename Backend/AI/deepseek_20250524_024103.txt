@@ -1,0 +1,50 @@
+Job Title: Machine Learning Engineer
+Location: San Francisco, CA (Hybrid)
+Company: TechInnovate AI Solutions
+
+About Us:
+TechInnovate is a leading AI solutions provider transforming industries through cutting-edge machine learning applications. We're building next-generation intelligent systems for healthcare, finance, and logistics domains.
+
+Position Overview:
+We seek a skilled Machine Learning Engineer to design, develop, and deploy machine learning models that power our core products. You'll work closely with data scientists and software engineers to productionize AI solutions at scale.
+
+Key Responsibilities:
+- Develop and optimize machine learning models for real-world applications
+- Design and implement end-to-end ML pipelines (data ingestion to deployment)
+- Collaborate on NLP and computer vision projects
+- Optimize models for performance and scalability
+- Implement MLOps practices for continuous integration/delivery
+- Conduct A/B testing of model versions
+- Maintain documentation of ML systems
+- Stay updated with latest advancements in ML research
+
+Required Qualifications:
+- 3+ years professional ML engineering experience
+- Strong Python programming skills
+- Expertise with TensorFlow/PyTorch
+- Experience with cloud platforms (AWS/GCP/Azure)
+- Solid understanding of ML fundamentals
+- Experience with big data tools (Spark, Hadoop)
+- Familiarity with Docker/Kubernetes
+- Strong software engineering best practices
+- BS/MS in Computer Science or related field
+
+Preferred Qualifications:
+- Experience with distributed training
+- Knowledge of LLM fine-tuning
+- Experience with ML model optimization
+- Familiarity with CI/CD for ML systems
+- Contributions to open-source ML projects
+- Published research in ML/AI
+
+What We Offer:
+- Competitive salary ($140k-$180k + equity)
+- Flexible work arrangements
+- State-of-the-art ML infrastructure
+- Professional development budget
+- Comprehensive health benefits
+
+Application Process:
+Send resume and GitHub profile to careers@techinnovate.ai with subject "ML Engineer Application - [Your Name]".
+
+TechInnovate is an equal opportunity employer.
